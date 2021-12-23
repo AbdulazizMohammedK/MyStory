@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyStory</string>
+    <string name="Password">password</string>
+    <string name="Username">Username</string>
+    <string name="status">Status Login</string>
+    <string name="chkBox">I agree with terms and conditions</string>
+    <string name="Login">Login</string>
 </resources>
