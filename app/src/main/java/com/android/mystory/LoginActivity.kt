@@ -29,7 +29,7 @@ class LoginActivity : AppCompatActivity() {
     private fun login(){
         val arrayList:ArrayList<User> = ArrayList()
         arrayList.add(User("test@email.com","1234"))
-        arrayList.add(User("account@gmail.com","123456"))
+        arrayList.add(User("1","1"))
         arrayList.add(User("user@email.com","12345"))
        btnLogin?.setOnClickListener {
 

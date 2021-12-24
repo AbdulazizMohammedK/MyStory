@@ -5,4 +5,10 @@
     <string name="status">Status Login</string>
     <string name="chkBox">I agree with terms and conditions</string>
     <string name="Login">Login</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="Home">Home</string>
+    <string name="Logout">Logout</string>
+<string name="welcom">Hello User email</string>
+    <string name="image">This is profile image</string>
 </resources>

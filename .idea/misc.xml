@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/MyStory/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/User/MyStory/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
-        <entry key="..\:/Users/User/MyStory/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/MyStory/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/User/MyStory/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
         <entry key="..\:/Users/User/MyStory/app/src/main/res/layout/activity_splash2.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/MyStory/app/src/main/res/layout/header.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/MyStory/app/src/main/res/menu/menu.xml" value="0.1796875" />
       </map>
     </option>
   </component>
